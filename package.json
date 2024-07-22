@@ -13,7 +13,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-rollup": "^2.14.0",
     "gulp-uglify": "^3.0.0",
-    "jest-cli": "^20.0.4"
+    "jest-cli": "^29.7.0"
   },
   "scripts": {},
   "repository": {
